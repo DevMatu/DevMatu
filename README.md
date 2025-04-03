@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Matu.
-- 👀 I'm interested in programming, especially video games. 
-- 🌱 I’m currently learning C++ and Java
+- 👋 Hi, I’m Matusalen.
+- 👀 I'm interested in develop all kind of programs. 
+- 🌱 I’m currently learning C++ and C++
 - 📫 How to reach me :: pecchini.matu@gmail.com
 
 <!---
